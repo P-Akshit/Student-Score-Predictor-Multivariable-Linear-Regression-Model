@@ -1,0 +1,19 @@
+# ----------------------------------------------------------------
+# Software & Hardware Requirements for Student Score Prediction
+# ----------------------------------------------------------------
+
+# 1. Core Runtime Environment
+# Compatible with Python 3.x (Python 3.8 or above recommended)
+python>=3.8
+
+# 2. Open-Source Libraries & Dependencies
+pandas
+jupyter
+
+# 3. Compatible Application Software (External)
+# - Microsoft Excel, Google Sheets, LibreOffice Calc, or any free open-source spreadsheet tool
+# - Supported IDEs: Jupyter Notebook (highly recommended), VS Code, PyCharm, or CLion
+
+# 4. Minimum Hardware Specifications
+# - Operating System: Windows 10 / Windows 11
+# - System Memory: Minimum 4GB RAM (or higher for better performance)
